@@ -2,7 +2,7 @@
 
 ### ` ⚠️  𝐒𝟒𝐁 𝐇𝟒𝐓𝟑𝐑𝐒 𝐊𝐈 𝐌𝟒𝟒 𝐂𝐇𝐎𝐃𝐍𝟑 𝐖𝟒𝐋𝟒 𝐅𝐓 𝐑𝟒𝐕𝐀𝐍 𝐁𝟒𝐃𝐌𝟒𝐒𝐇 ! ⚠️ `
 
-![R4V4N XD INXIDE](https://ibb.co/bgg7FPW0)
+![R4V4N XD INXIDE]("https://ibb.co/bgg7FPW0"><img src="https://i.ibb.co/1ffbMLvg/413feb20618f072d3ee86ed883192bc7.jpg")
 
 ---
 
