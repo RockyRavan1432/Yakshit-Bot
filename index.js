@@ -13,7 +13,7 @@ const io = new Server(server);
 let botAPI = null;
 let adminID = null;
 let prefix = '/';
-let botNickname = '𝐃𝟑𝟑𝐏 𝐁𝟒𝐃𝐌𝟒𝐒𝐇';
+let botNickname = '𝐑𝟒𝐕𝟒𝐍 𝐁𝟒𝐃𝐌𝟒𝐒𝐇';
 
 let lockedGroups = {};
 let lockedNicknames = {};
