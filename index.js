@@ -409,7 +409,7 @@ async function handleMessage(api, event) {
       if (lowerCaseBody.includes('mkc')) {
         replyMessage = `😼𝐁𝐎𝐋 𝐍𝐀 𝐌𝐀𝐃𝐑𝐂𝐇𝐎𝐃𝐄 𝐓𝐄𝐑𝐈 𝐆𝐀𝐍𝐃 𝐌𝐀𝐀𝐑𝐔🙄`;
         isReply = true;
-      } else if (lowerCaseBody.includes('randi')) {
+      } else if (lowerCaseBody.includes('bkl')) {
         replyMessage = `😼𝐁𝐎𝐋 𝐓𝐄𝐑𝐈 𝐁𝐇𝐀𝐍 𝐂𝐇𝐎𝐃𝐔🙄👈🏻`;
         isReply = true;
       } else if (lowerCaseBody.includes('teri maa chod dunga')) {
