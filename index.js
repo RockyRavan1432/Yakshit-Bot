@@ -177,7 +177,7 @@ async function setBotNicknamesInGroups() {
 
 async function sendStartupMessage() {
   if (!botAPI) return;
-  const startupMessage = `😈𝟒𝐋𝐋 𝐇𝟒𝐓𝟑𝐑𝐒 𝐊𝐈 𝐌𝟒𝟒 𝐂𝐇𝐎𝐃𝐍𝟑 𝐖𝟒𝐋𝟒 𝐑𝟒𝐕𝟒𝐍 𝐁𝐎𝐓 𝐇𝟑𝐑𝟑 😈`;
+  const startupMessage = `😈𝟒𝐋𝐋 𝐇𝟒𝐓𝟑𝐑𝐒 𝐊𝐈 𝐌𝟒𝟒 𝐂𝐇𝐎𝐃𝐍𝟑 𝐖𝟒𝐋𝟒 𝐑𝟒𝐕𝟒𝐍 𝐁𝟎𝐓 𝐇𝟑𝐑𝟑 😈`;
   try {
     const threads = await botAPI.getThreadList(100, null, ['GROUP']);
     for (const thread of threads) {
